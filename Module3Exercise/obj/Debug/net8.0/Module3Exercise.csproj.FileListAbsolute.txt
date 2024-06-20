@@ -1,0 +1,14 @@
+C:\Users\Kevin Clark\source\repos\Module3Exercise\Module3Exercise\bin\Debug\net8.0\Module3Exercise.exe
+C:\Users\Kevin Clark\source\repos\Module3Exercise\Module3Exercise\bin\Debug\net8.0\Module3Exercise.deps.json
+C:\Users\Kevin Clark\source\repos\Module3Exercise\Module3Exercise\bin\Debug\net8.0\Module3Exercise.runtimeconfig.json
+C:\Users\Kevin Clark\source\repos\Module3Exercise\Module3Exercise\bin\Debug\net8.0\Module3Exercise.dll
+C:\Users\Kevin Clark\source\repos\Module3Exercise\Module3Exercise\bin\Debug\net8.0\Module3Exercise.pdb
+C:\Users\Kevin Clark\source\repos\Module3Exercise\Module3Exercise\obj\Debug\net8.0\Module3Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Clark\source\repos\Module3Exercise\Module3Exercise\obj\Debug\net8.0\Module3Exercise.AssemblyInfoInputs.cache
+C:\Users\Kevin Clark\source\repos\Module3Exercise\Module3Exercise\obj\Debug\net8.0\Module3Exercise.AssemblyInfo.cs
+C:\Users\Kevin Clark\source\repos\Module3Exercise\Module3Exercise\obj\Debug\net8.0\Module3Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Clark\source\repos\Module3Exercise\Module3Exercise\obj\Debug\net8.0\Module3Exercise.dll
+C:\Users\Kevin Clark\source\repos\Module3Exercise\Module3Exercise\obj\Debug\net8.0\refint\Module3Exercise.dll
+C:\Users\Kevin Clark\source\repos\Module3Exercise\Module3Exercise\obj\Debug\net8.0\Module3Exercise.pdb
+C:\Users\Kevin Clark\source\repos\Module3Exercise\Module3Exercise\obj\Debug\net8.0\Module3Exercise.genruntimeconfig.cache
+C:\Users\Kevin Clark\source\repos\Module3Exercise\Module3Exercise\obj\Debug\net8.0\ref\Module3Exercise.dll
